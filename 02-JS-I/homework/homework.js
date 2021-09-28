@@ -96,6 +96,8 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
+
+  return 64
 }
 
 function elevar(num, exponent) {
