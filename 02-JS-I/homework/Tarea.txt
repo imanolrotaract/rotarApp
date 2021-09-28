@@ -1,0 +1,7 @@
+Variable: Una variable es un contenedor de datos. Una forma de almacenar datos de algun tipo especifico, que puede ser declarado o no.
+String: Es una cadena de caracteres (un tipo de dato), la cual no distingue numeros o ciertos simbolos. De usa para escribir textos, nombres, etc.
+Funciones: Una funcion en java es aquella que te permite manipular datos alamacenados en variables. En java son objetos que pueden ser llamados "callable objects"
+Funciones/Argumentos: Los argumentos son datos que recibe una funcion (desde afuera de ella) y que pueden ser usadas dentro de la funcion.
+Funciones/return: El return te permite enviar (retornar) datos creados dentro de la funcion que pueden guardarse en una variable o interactuar con ellos.
+Declaraciones if: Esta declaracion es un comparador de datos, donde podes comparar dos o mas datos en igualdad, desigualdad y diferencia.
+Valores booleanos: Son datos binarios, verdadero o falso, cero o uno. Son un tipo de dato.
